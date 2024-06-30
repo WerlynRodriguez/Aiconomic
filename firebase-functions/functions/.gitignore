@@ -1,0 +1,7 @@
+*.local
+
+# # dotenv environment variables file
+.env
+venv/
+.python-version
+__pycache__
